@@ -1,0 +1,96 @@
+body {
+  font-size: 18px;
+  font-family: serif;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 800px;
+  padding: 7px;
+  background-color: ##f1e9d6;
+}
+
+p {
+  line-height: 1.6;
+  color: #8f5c45;
+  font-family: 'David Libre', serif;
+}
+
+h1 {
+  font-size: 36px;
+  color: #db7843;
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  color: #db7843;
+  font-family: 'PT Sans', sans-serif;
+}
+
+h3 {
+  color: #db7843;
+  font-family: 'PT Sans', sans-serif;
+}
+h4 {
+  line-height: 1.6;
+  color: #8f5c45;
+  font-family: 'David Libre', serif;
+  text-align: center;
+}
+
+img {
+      max-width: 100%;
+      border: solid;
+      border-color: #8c423d;
+}
+
+img.right {
+  float: right;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+img.center {
+  display: block;
+  margin: 0 auto;
+}
+
+ol {
+  overflow: auto;
+  line-height: 1.6;
+  color: #8f5c45;
+  font-family: 'David Libre', serif;
+}
+
+ul {
+  line-height: 1.6;
+  color: #8f5c45;
+  font-family: 'David Libre', serif;
+}
+a:link {
+    color: #eab095;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #e39975;
+}
+
+
+a:hover {
+    color: #8f5c45;
+    text-decoration: none;
+}
+
+a:active {
+    color: #e79a97;
+}
+
+section {
+  clear: both;
+}
